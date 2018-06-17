@@ -15,4 +15,4 @@ Java
 
 ### Running
 
-Execute the file [game.bat](https://gist.github.com/PurpleBooth/b24679402957c63ec426)
+Execute the file [game.bat](studies/paciencia/game.bat)
