@@ -15,4 +15,4 @@ Java
 
 ### Running
 
-Execute the file [game.bat]
+Execute the file [game.bat](game.bat).
