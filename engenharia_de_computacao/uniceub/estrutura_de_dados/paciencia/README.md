@@ -1,4 +1,4 @@
-# Paciencia
+# Paciência
 Trabalho final da disciplina Estrutura de Dados
 
 ## Getting Started
