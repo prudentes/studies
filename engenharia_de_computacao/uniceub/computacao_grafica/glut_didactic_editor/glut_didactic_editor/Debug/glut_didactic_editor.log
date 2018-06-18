@@ -1,2 +1,3 @@
 ﻿  glut_didactic_editor.cpp
+c:\users\mprud\documents\github\studies\engenharia_de_computacao\uniceub\computacao_grafica\glut_didactic_editor\glut_didactic_editor\glut_didactic_editor.cpp(40): warning C4715: 'tradutor': nem todos os caminhos de controle retornam um valor
   glut_didactic_editor.vcxproj -> C:\Users\mprud\Documents\GitHub\studies\engenharia_de_computacao\uniceub\computacao_grafica\glut_didactic_editor\Debug\glut_didactic_editor.exe
